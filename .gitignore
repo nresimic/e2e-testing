@@ -1,0 +1,16 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+.env
+.env.local
+
+# Obsidian — keep config, drop user-specific state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/cache
+
+.DS_Store

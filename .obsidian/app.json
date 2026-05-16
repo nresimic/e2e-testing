@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "promptDelete": true,
+  "attachmentFolderPath": "attachments",
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "defaultViewMode": "source"
+}
