@@ -5,7 +5,7 @@ export class HomePage {
 
   readonly route = '/home';
 
-  async clickLearning() {
-    await this.page.getByTestId('sidebar-nav-learning').click();
+  async clickViewAll() {
+    await this.page.getByRole('button', { name: 'View all' }).click();
   }
 }
